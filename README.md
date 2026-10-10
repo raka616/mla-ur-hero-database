@@ -3,66 +3,118 @@
 
 **Data Contributor: Muhammad Raka Prasetya**
 
-An independent community database documenting Ultra Rare (UR) heroes in Mobile Legends: Adventure (MLA), including release dates, notable characteristics, and gameplay mechanics.
+An independent community database documenting Ultra Rare (UR) heroes in Mobile Legends: Adventure (MLA), including release dates, notable characteristics, gameplay mechanics, and contributor observations.
 
 ## About This Database
 
-This database compiles 21 UR heroes based on contributor-provided information. It aims to document release history, unique skills, attribute scaling, team synergy, and gameplay strategies.
+This database compiles 21 UR heroes based on information provided by Muhammad Raka Prasetya. Its purpose is to document hero release history, unique abilities, attribute scaling, team synergy, and gameplay strategies.
+
+The information is organized into release timelines, hero notes, and featured mechanics. Details that have not been independently verified are identified as contributor-provided information.
+
 
 ## UR Hero Release List
 
-| No. | Hero Name | Release Date | Notes |
-|---:|---|---|---|
-| 1 | Achlys Alice | 26 May 2023 | Pioneer UR hero; released through Primal Zone. |
-| 2 | Eos Silvanna | 28 July 2023 | Released alongside the "Reigniting Light" story chapter. |
-| 3 | Ember Irithel | 29 September 2023 | Irithel's awakening alongside Leo through Primal Zone. |
-| 4 | Helia Karihmet | 1 December 2023 | Associated with energy-drain mechanics and Hybrid Elemental/Order. |
-| 5 | Mystic Mystia | 2 February 2024 | Support hero with distinctive battle-control mechanics. |
-| 6 | Singularity Lunox | 29 March 2024 | Associated with the Oceanic Adventure costume event. |
-| 7 | Erza | 12 July 2024 | Limited collaboration hero from MLA × Fairy Tail. |
-| 8 | Everblight Shah Torre | 6 September 2024 | Associated with Nether Apep and Hallowed Resonance. |
-| 9 | Genesis Shar | 1 November 2024 | Release-period note: commemorative CD-Key shared through official MLA Facebook. |
-| 10 | Skuld Norns | 27 December 2024 | Associated with Dark/Astral themes and parallel-time shadow mechanics. |
-| 11 | Sentient Alina | 21 February 2025 | Bionic angel-like character associated with Tech/Order. |
-| 12 | Infinia Crocell | 18 April 2025 | Astral Mage with an untargetable effect in her domain, according to contributor notes. |
-| 13 | Apexis Cluster | 13 June 2025 | Associated with the Celestial Supplication event. |
-| 14 | Noctis Tokinibara | 8 August 2025 | Associated with Scarlet Shadow and Izumo lore. |
-| 15 | Kryos Sinmara | 17 October 2025 | Release date provided by the contributor. |
-| 16 | Heartcore Angela | 28 November 2025 | UR Angela variant associated with accelerating the team's Ultimate gauge. |
-| 17 | Lionheart Sekhet | 16 January 2026 | Release date provided by the contributor. |
-| 18 | Omniversal Akashic | 20 March 2026 | Release date provided by the contributor. |
-| 19 | Nightseer Esmeralda | 15 May 2026 | Release date provided by the contributor. |
-| 20 | Empyrean Ingrid | 10 July 2026 | Release date provided by the contributor. |
-| 21 | Aeon Rista | 4 September 2026 | Described by the contributor as the newest hero in this list at the time of compilation. |
+### 2023
+
+| No. | Hero | Release Date |
+|---:|---|---|
+| 1 | Achlys Alice | 26 May 2023 |
+| 2 | Eos Silvanna | 28 July 2023 |
+| 3 | Ember Irithel | 29 September 2023 |
+| 4 | Helia Karihmet | 1 December 2023 |
+
+### 2024
+
+| No. | Hero | Release Date |
+|---:|---|---|
+| 5 | Mystic Mystia | 2 February 2024 |
+| 6 | Singularity Lunox | 29 March 2024 |
+| 7 | Erza | 12 July 2024 |
+| 8 | Everblight Shah Torre | 6 September 2024 |
+| 9 | Genesis Shar | 1 November 2024 |
+| 10 | Skuld Norns | 27 December 2024 |
+
+### 2025
+
+| No. | Hero | Release Date |
+|---:|---|---|
+| 11 | Sentient Alina | 21 February 2025 |
+| 12 | Infinia Crocell | 18 April 2025 |
+| 13 | Apexis Cluster | 13 June 2025 |
+| 14 | Noctis Tokinibara | 8 August 2025 |
+| 15 | Kryos Sinmara | 17 October 2025 |
+| 16 | Heartcore Angela | 28 November 2025 |
+
+### 2026
+
+| No. | Hero | Release Date |
+|---:|---|---|
+| 17 | Lionheart Sekhet | 16 January 2026 |
+| 18 | Omniversal Akashic | 20 March 2026 |
+| 19 | Nightseer Esmeralda | 15 May 2026 |
+| 20 | Empyrean Ingrid | 10 July 2026 |
+| 21 | Aeon Rista | 4 September 2026 |
 
 ## Featured Mechanics: Genesis Shar
 
-The following information is based on gameplay observations provided by Muhammad Raka Prasetya. It should be checked against in-game descriptions and testing.
+**Mechanics contributor: Muhammad Raka Prasetya**
 
-- Genesis Shar can create a copy of an enemy hero as an allied unit.
-- The copied unit can use available actions and contribute to crowd control.
-- At full Awaken (A0), the copy is described as sharing effects from Genesis Shar's Soul Skill and Orlay Skill according to her own upgrade levels.
-- The copy's HP and Attack are described as scaling with Genesis Shar's Star Level.
-- Contributor-provided scaling model at Star Level 9:
+The following section records gameplay observations supplied by the contributor. These mechanics should be checked against current in-game descriptions and testing.
+
+### Enemy Copy Mechanic
+
+- Genesis Shar can create a copy of an enemy hero that fights as an allied unit.
+- The copied hero can contribute additional actions and battlefield control.
+- According to the contributor, crowd-control interactions can disrupt enemy positioning and influence enemy targeting.
+
+### Skill Interactions
+
+According to the contributor's observations:
+
+- At full Awaken (A0), the copy can benefit from effects associated with Genesis Shar's own Soul Skill and Orlay Skill upgrade levels.
+- These effects are described as depending on Genesis Shar's upgrades rather than the copied hero's corresponding upgrade levels.
+
+### Attribute Scaling
+
+The contributor describes the copy's HP and Attack as scaling with Genesis Shar's Star Level.
+
+At Star Level 9, the contributor-provided model is:
 
 `Clone stats = min(140% × enemy stats, 700% × Genesis Shar stats)`
 
-This formula represents the contributor's understanding of the mechanic and has not been independently verified here.
+In this model:
 
-## Planned Documentation
+- `140% × enemy stats` represents the enemy-relative scaling limit.
+- `700% × Genesis Shar stats` represents the cap based on Genesis Shar's own attributes.
+- The lower of these two values determines the modeled clone stats.
 
-- Skills and unique mechanics of each UR hero.
+This is a contributor-provided interpretation of the mechanic, not an independently verified official formula.
+
+### Investment Considerations
+
+Based on this model, improving Genesis Shar's own attributes may increase the cap on the copied hero's stats. Star Level, Soul Vessel, Orlay, and Glory are areas the contributor identifies for further testing.
+
+## Future Documentation
+
+Planned additions include:
+
+- Skill descriptions and unique mechanics for every UR hero.
 - Attribute scaling and upgrade breakpoints.
 - Team synergy and counterplay.
-- PvE and PvP strategies.
-- Soul Vessel, Orlay, Glory, and Star Level investment.
+- PvE and PvP applications.
+- Soul Vessel, Orlay, Glory, and Star Level investment notes.
+- Official references and reproducible in-game testing where available.
 
 ## Contributor & Attribution
 
-**Primary Contributor: Muhammad Raka Prasetya**
+**Primary Data Contributor: Muhammad Raka Prasetya**
 
-The initial list of 21 heroes, release dates, and gameplay notes in this repository were compiled from contributor-provided information. Future additions should identify their contributors and supporting references where available.
+The initial list of 21 heroes, release dates, and gameplay observations in this repository were compiled from information provided by Muhammad Raka Prasetya.
+
+New contributions should identify their authors and cite supporting references whenever possible.
 
 ## Disclaimer
 
-This is an independent community documentation project and is not affiliated with or endorsed by the official developers of Mobile Legends: Adventure. Release dates, event details, and gameplay mechanics should be checked against official announcements and in-game testing. All game names and trademarks belong to their respective owners.
+This is an independent community documentation project. It is not an official Mobile Legends: Adventure website and is not affiliated with or endorsed by the game's developers.
+
+Release dates, event details, hero classifications, and gameplay mechanics should be cross-checked against official announcements and current in-game information. All game names and trademarks belong to their respective owners.
